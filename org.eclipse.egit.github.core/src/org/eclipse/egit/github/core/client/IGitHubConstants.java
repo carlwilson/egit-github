@@ -89,6 +89,8 @@ public interface IGitHubConstants {
 	/** */
 	String SEGMENT_COMPARE = "/compare"; //$NON-NLS-1$
 	/** */
+	String SEGMENT_CONTENTS = "/contents"; //$NON-NLS-1$
+	/** */
 	String SEGMENT_CREATE = "/create"; //$NON-NLS-1$
 	/** */
 	String SEGMENT_DOWNLOADS = "/downloads"; //$NON-NLS-1$
